@@ -1,0 +1,504 @@
+state,modeldate,candidate_name,startdate,enddate,pollster,pollster_rating_id,samplesize,population,weight,influence,pct
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/29/2024","7/30/2024","Public Policy Polling",263,627,"rv",.8945254,.8945254,45
+"Georgia","8/1/2024","Convention Bounce for Donald Trump","7/29/2024","7/30/2024","Public Policy Polling",263,662,"rv",.9082701,.9082701,45
+"Arizona","8/1/2024","Convention Bounce for Donald Trump","7/29/2024","7/30/2024","Public Policy Polling",263,618,"rv",.8908122,.8908122,45
+"National","8/1/2024","Convention Bounce for Donald Trump","7/27/2024","7/30/2024","YouGov",391,1434,"rv",1.235144,1.235144,45.47619
+"National","8/1/2024","Convention Bounce for Donald Trump","7/27/2024","7/30/2024","Civiqs",471,1123,"rv",.8738968,.8738968,45.47619
+"National","8/1/2024","Convention Bounce for Donald Trump","7/29/2024","7/29/2024","Redfield & Wilton Strategies",562,1750,"lv",1.05666,1.05666,45.23809
+"National","8/1/2024","Convention Bounce for Donald Trump","7/26/2024","7/29/2024","American Pulse",836,1035,"lv",.9366338,.9038271,45.95238
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/27/2024","7/28/2024","Quantus Polls and News",859,500,"rv",.7591876,.6985504,45.95238
+"National","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/29/2024","ActiVote",721,1000,"lv",.875528,.8130418,46.42857
+"National","8/1/2024","Convention Bounce for Donald Trump","7/26/2024","7/28/2024","Leger",572,786,"lv",1.001678,.9315079,46.19048
+"National","8/1/2024","Convention Bounce for Donald Trump","7/26/2024","7/28/2024","Harris Insights & Analytics",133,2196,"rv",1.174445,1.09064,46.19048
+"National","8/1/2024","Convention Bounce for Donald Trump","7/26/2024","7/28/2024","Morning Consult",218,11538,"rv",1.147636,1.066193,46.19048
+"National","8/1/2024","Convention Bounce for Donald Trump","7/26/2024","7/27/2024","Florida Atlantic University/Mainstreet Research",770,952,"lv",.9772951,.9088333,46.42857
+"New Hampshire","8/1/2024","Convention Bounce for Donald Trump","7/26/2024","7/28/2024","Emerson College",88,1000,"rv",1.329066,1.329066,46.19048
+"National","8/1/2024","Convention Bounce for Donald Trump","7/26/2024","7/28/2024","Ipsos",154,876,"rv",.6746399,.6265315,46.19048
+"National","8/1/2024","Convention Bounce for Donald Trump","7/25/2024","7/27/2024","Morning Consult",218,4000,"rv",.2476573,.2212584,46.66667
+"Florida","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/27/2024","University of North Florida",360,774,"lv",1.264148,1.264148,46.90476
+"Wisconsin","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.9511118,46.66667
+"Michigan","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,706,"rv",.9296545,.9296545,46.66667
+"Michigan","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.9511118,46.66667
+"Arizona","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,804,"rv",.9615175,.8079224,46.66667
+"Nevada","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,454,"rv",.8107653,.8107653,46.66667
+"Wisconsin","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,700,"rv",.9275542,.9275542,46.66667
+"National","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/29/2024","McLaughlin & Associates",203,1000,"lv",.7394398,.6617405,46.66667
+"North Carolina","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,706,"rv",.9296545,.9296545,46.66667
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.799179,46.66667
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,804,"rv",.9615175,.8079224,46.66667
+"Georgia","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,799,"rv",.9599783,.8066291,46.66667
+"Arizona","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.799179,46.66667
+"Nevada","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.9511118,46.66667
+"California","8/1/2024","Convention Bounce for Donald Trump","7/25/2024","7/27/2024","Capitol Weekly",510,1904,"lv",.8582811,.8582811,46.66667
+"National","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/26/2024","Morning Consult",218,4000,"rv",.2472218,.2120054,47.14286
+"National","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/25/2024","Rasmussen Reports",277,2163,"lv",1.215129,1.042819,47.38095
+"National","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/25/2024","Ipsos",154,1238,"a",.6242968,.5356258,47.38095
+"Oregon","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/26/2024","Hoffman Research Group",141,700,"lv",.8395725,.8395725,47.14286
+"New Hampshire","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/25/2024","Saint Anselm College",494,2083,"rv",1.363115,1.284013,47.38095
+"Washington","8/1/2024","Convention Bounce for Donald Trump","7/24/2024","7/25/2024","Public Policy Polling",263,581,"lv",.9104527,.9104527,47.38095
+"National","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/25/2024","Angus Reid Global",13,1743,"rv",1.373048,1.132585,47.61905
+"New Hampshire","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/25/2024","University of New Hampshire",357,2875,"lv",1.16764,1.066002,47.61905
+"Minnesota","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/25/2024","SurveyUSA",325,656,"lv",1.293963,1.293963,47.61905
+"Maine","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/25/2024","University of New Hampshire",357,1445,"lv",1.02402,1.02402,47.61905
+"National","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/25/2024","AtlasIntel",546,1980,"rv",1.749679,1.443256,47.61905
+"National","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/25/2024","Morning Consult",218,4000,"rv",.2492728,.2047417,47.61905
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/25/2024","Bullfinch",692,800,"rv",.8577757,.6522411,47.61905
+"National","8/1/2024","Convention Bounce for Donald Trump","7/23/2024","7/25/2024","Fabrizio/GBAO",796,1000,"rv",.9019572,.7439966,47.61905
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/28/2024","Susquehanna Polling & Research Inc.",326,600,"lv",1.078603,.6478565,47.14286
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/25/2024","Harris Insights & Analytics",133,2472,"lv",1.185037,.7641075,47.85714
+"Wisconsin","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,523,"lv",.8087144,.4879084,48.09524
+"Georgia","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,.6433157,48.33333
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Morning Consult",218,11297,"rv",.4306692,.2564359,48.09524
+"Florida","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,572,"lv",.8278549,.7100108,48.09524
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","The New York Times/Siena College",448,1142,"lv",1.681785,1.033814,48.09524
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/23/2024","Emerson College",88,850,"rv",1.260253,.6563057,48.33333
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/23/2024","SSRS",297,1631,"rv",.9972708,.6130344,48.33333
+"Minnesota","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,475,"lv",.7872432,.5883062,48.09524
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,851,"lv",.9082868,.4730112,48.09524
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1034,"rv",1.398447,.7282733,48.09524
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/23/2024","RMG Research",555,2000,"rv",1.203061,.739536,48.33333
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Rasmussen Reports",277,1074,"lv",.9160359,.5591149,48.09524
+"Michigan","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Glengariff Group",117,600,"lv",.9587052,.5783999,48.09524
+"Michigan","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1012,"rv",1.388323,.8375943,48.09524
+"Arizona","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,.6433157,48.33333
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Change Research",48,2137,"rv",1.139644,.7005527,48.09524
+"Wisconsin","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/23/2024","Emerson College",88,845,"rv",1.257808,.7588529,48.33333
+"Georgia","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,1180,"lv",.9752806,.5078998,48.09524
+"Arizona","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,510,"lv",.8031887,.4182789,48.09524
+"North Carolina","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,586,"lv",.8328815,.6309597,48.09524
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","SurveyMonkey",324,5265,"a",1.026118,.6307671,48.09524
+"Minnesota","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1071,"rv",1.415126,1.057523,48.09524
+"Michigan","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,.7452789,48.33333
+"Wisconsin","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1046,"rv",1.403903,.8469938,48.09524
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Big Village",37,1492,"lv",1.173604,.7214284,48.09524
+"Michigan","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,512,"lv",.804052,.4850955,48.09524
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/23/2024","Ipsos",154,1018,"rv",.7147401,.4346421,48.33333
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/23/2024","YouGov",391,1155,"lv",.9478594,.5720955,48.33333
+"Nevada","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,435,"lv",.7668447,.6576853,48.09524
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/20/2024","7/23/2024","North Star Opinion Research",233,600,"lv",.9908795,.2785951,48.80952
+"National","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/22/2024","Marist College",183,1117,"rv",1.429356,.5782532,48.57143
+"Georgia","8/1/2024","Convention Bounce for Donald Trump","7/22/2024","7/22/2024","Landmark Communications",166,400,"lv",1.007723,.2833309,48.57143
+"National","8/1/2024","Convention Bounce for Donald Trump","7/21/2024","7/23/2024","YouGov",391,1435,"rv",.9521265,.3696338,48.57143
+"National","8/1/2024","Convention Bounce for Donald Trump","7/21/2024","7/23/2024","ActiVote",721,1000,"lv",.8146179,.3174093,48.57143
+"National","8/1/2024","Convention Bounce for Donald Trump","7/21/2024","7/22/2024","Morning Consult",218,4001,"rv",1.12362,.2006028,48.80952
+"California","8/1/2024","Convention Bounce for Donald Trump","7/19/2024","7/22/2024","Capitol Weekly",510,2121,"lv",.7296093,.503724,49.28571
+"National","8/1/2024","Convention Bounce for Donald Trump","7/19/2024","7/22/2024","YouGov",391,1178,"rv",.9760088,.1831709,49.28571
+"North Carolina","8/1/2024","Convention Bounce for Donald Trump","7/19/2024","7/20/2024","Public Policy Polling",263,573,"rv",.87103,.1847262,49.76191
+"National","8/1/2024","Convention Bounce for Donald Trump","7/19/2024","7/21/2024","Echelon Insights",407,982,"lv",1.198089,.1753301,49.52381
+"National","8/1/2024","Convention Bounce for Donald Trump","7/19/2024","7/21/2024","Quinnipiac University",267,1257,"rv",1.355245,.1983285,49.52381
+"National","8/1/2024","Convention Bounce for Donald Trump","7/19/2024","7/21/2024","Harris Insights & Analytics",133,2169,"lv",1.371256,.1915569,49.52381
+"National","8/1/2024","Convention Bounce for Donald Trump","7/19/2024","7/21/2024","Florida Atlantic University/Mainstreet Research",770,711,"lv",.8836503,.1251431,49.52381
+"Arizona","8/1/2024","Convention Bounce for Donald Trump","7/19/2024","7/20/2024","Public Policy Polling",263,736,"rv",.8179438,.042658,49.76191
+"New Hampshire","8/1/2024","Convention Bounce for Donald Trump","7/19/2024","7/21/2024","Praecones Analytica",257,601,"rv",.8685638,.1881233,49.52381
+"Michigan","8/1/2024","Convention Bounce for Donald Trump","7/17/2024","7/18/2024","Public Policy Polling",263,650,"rv",.7623327,.0030852,46.25
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/17/2024","7/18/2024","Public Policy Polling",263,624,"rv",.863735,.0202795,46.25
+"National","8/1/2024","Convention Bounce for Donald Trump","7/16/2024","7/18/2024","YouGov",391,2240,"lv",1.411647,.0156741,45
+"Georgia","8/1/2024","Convention Bounce for Donald Trump","7/9/2024","7/18/2024","University of Georgia",350,1000,"lv",1.119954,0,43.75
+"Nevada","8/1/2024","Convention Bounce for Donald Trump","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,.18411,41.25
+"Florida","8/1/2024","Convention Bounce for Donald Trump","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,.18411,41.25
+"Georgia","8/1/2024","Convention Bounce for Donald Trump","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,0,41.25
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,0,41.25
+"Arizona","8/1/2024","Convention Bounce for Donald Trump","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,0,41.25
+"National","8/1/2024","Convention Bounce for Donald Trump","7/15/2024","7/16/2024","Ipsos",154,992,"rv",.8833403,0,41.25
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/13/2024","7/16/2024","Civiqs",471,536,"rv",.738781,0,41.25
+"Wisconsin","8/1/2024","Convention Bounce for Donald Trump","7/13/2024","7/16/2024","Civiqs",471,514,"rv",.7301393,0,41.25
+"Michigan","8/1/2024","Convention Bounce for Donald Trump","7/13/2024","7/16/2024","Civiqs",471,532,"rv",.7372482,0,41.25
+"National","8/1/2024","Convention Bounce for Donald Trump","7/13/2024","7/16/2024","YouGov",391,1404,"rv",1.088165,0,41.25
+"National","8/1/2024","Convention Bounce for Donald Trump","7/15/2024","7/15/2024","Morning Consult",218,2045,"rv",1.201874,0,40
+"Virginia","8/1/2024","Convention Bounce for Donald Trump","7/14/2024","7/15/2024","Florida Atlantic University/Mainstreet Research",770,265,"lv",.479259,.479259,40
+"Virginia","8/1/2024","Convention Bounce for Donald Trump","7/14/2024","7/15/2024","Emerson College",88,1000,"rv",1.329066,1.329066,40
+"Georgia","8/1/2024","Convention Bounce for Donald Trump","7/14/2024","7/15/2024","Florida Atlantic University/Mainstreet Research",770,312,"lv",.5107227,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/12/2024","7/15/2024","SurveyUSA",325,1098,"lv",1.549629,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/13/2024","7/15/2024","Harris Insights & Analytics",133,1918,"rv",1.180141,0,40
+"Virginia","8/1/2024","Convention Bounce for Donald Trump","7/12/2024","7/13/2024","Florida Atlantic University/Mainstreet Research",770,544,"lv",.6923547,.6370167,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/12/2024","7/14/2024","Big Village",37,1499,"lv",1.174875,0,40
+"Georgia","8/1/2024","Convention Bounce for Donald Trump","7/12/2024","7/13/2024","Florida Atlantic University/Mainstreet Research",770,549,"lv",.6760592,0,40
+"California","8/1/2024","Convention Bounce for Donald Trump","7/12/2024","7/14/2024","Capitol Weekly",510,1044,"lv",.9117458,.1637191,40
+"Washington","8/1/2024","Convention Bounce for Donald Trump","7/10/2024","7/13/2024","SurveyUSA",325,708,"lv",1.329363,.2387091,40
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/11/2024","7/12/2024","Public Policy Polling",263,537,"rv",.8397312,0,40
+"Michigan","8/1/2024","Convention Bounce for Donald Trump","7/11/2024","7/12/2024","Public Policy Polling",263,568,"rv",.7965377,0,40
+"Wisconsin","8/1/2024","Convention Bounce for Donald Trump","7/10/2024","7/11/2024","Public Policy Polling",263,548,"rv",.8590776,0,40
+"Virginia","8/1/2024","Convention Bounce for Donald Trump","7/9/2024","7/12/2024","The New York Times/Siena College",448,661,"lv",1.372263,1.153055,40
+"Arizona","8/1/2024","Convention Bounce for Donald Trump","7/10/2024","7/11/2024","Public Policy Polling",263,596,"rv",.8814034,0,40
+"Pennsylvania","8/1/2024","Convention Bounce for Donald Trump","7/9/2024","7/11/2024","The New York Times/Siena College",448,872,"lv",1.521815,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/9/2024","7/10/2024","Marist College",183,1174,"rv",1.453317,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/7/2024","7/13/2024","Manhattan Institute",781,2100,"lv",1.078746,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/8/2024","7/11/2024","OH Predictive Insights",235,2295,"lv",1.298234,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/7/2024","7/10/2024","Beacon Research/Shaw & Co. Research",103,1210,"rv",1.474272,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/7/2024","7/9/2024","Hart Research Associates/Public Opinion Strategies",221,800,"rv",1.105344,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/7/2024","7/8/2024","Emerson College",88,1370,"rv",1.470507,0,40
+"Wisconsin","8/1/2024","Convention Bounce for Donald Trump","7/6/2024","7/10/2024","North Star Opinion Research",233,600,"lv",.9908795,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/7/2024","7/9/2024","YouGov",391,1443,"rv",1.086101,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/8/2024","7/8/2024","Redfield & Wilton Strategies",562,1101,"lv",.9610172,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/5/2024","7/9/2024","Ipsos",154,2041,"rv",.9231689,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/2/2024","7/6/2024","Bendixen & Amandi International",29,1000,"lv",.9656021,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/1/2024","7/3/2024","J.L. Partners",619,1000,"lv",.9872479,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/1/2024","7/2/2024","Ipsos",154,892,"rv",.7207345,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","7/1/2024","7/3/2024","Data for Progress",522,2067,"lv",1.089106,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","6/28/2024","7/1/2024","YouGov",391,1176,"rv",1.109194,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","6/28/2024","6/30/2024","SSRS",297,1274,"rv",.9478914,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","6/28/2024","6/30/2024","Harris Insights & Analytics",133,1500,"rv",1.198962,0,40
+"National","8/1/2024","Convention Bounce for Donald Trump","6/28/2024","6/28/2024","Data for Progress",522,1011,"lv",.841207,0,40
+"National","8/1/2024","Robert F. Kennedy","7/29/2024","7/29/2024","Redfield & Wilton Strategies",562,1750,"lv",1.05666,1.05666,5
+"National","8/1/2024","Robert F. Kennedy","7/27/2024","7/30/2024","YouGov",391,1434,"rv",1.235144,1.235144,3
+"National","8/1/2024","Robert F. Kennedy","7/26/2024","7/29/2024","American Pulse",836,1035,"lv",.9366338,.9038271,3.1
+"National","8/1/2024","Robert F. Kennedy","7/26/2024","7/28/2024","Leger",572,786,"lv",1.001678,.9315079,5
+"National","8/1/2024","Robert F. Kennedy","7/24/2024","7/29/2024","ActiVote",721,1000,"lv",.9297488,.8646177,10.3
+"National","8/1/2024","Robert F. Kennedy","7/26/2024","7/28/2024","Harris Insights & Analytics",133,2196,"rv",1.174445,1.09064,9
+"National","8/1/2024","Robert F. Kennedy","7/26/2024","7/27/2024","Florida Atlantic University/Mainstreet Research",770,952,"lv",.9772951,.9088333,8
+"New Hampshire","8/1/2024","Robert F. Kennedy","7/26/2024","7/28/2024","Emerson College",88,1000,"rv",1.329066,1.329066,5.8
+"North Carolina","8/1/2024","Robert F. Kennedy","7/24/2024","7/28/2024","Morning Consult",218,706,"rv",.9296545,.9296545,5
+"Arizona","8/1/2024","Robert F. Kennedy","7/24/2024","7/28/2024","Morning Consult",218,804,"rv",.9615175,.9615175,5
+"National","8/1/2024","Robert F. Kennedy","7/23/2024","7/29/2024","McLaughlin & Associates",203,1000,"lv",.7394398,.6617405,8
+"Michigan","8/1/2024","Robert F. Kennedy","7/24/2024","7/28/2024","Morning Consult",218,706,"rv",.9296545,.9296545,5
+"Nevada","8/1/2024","Robert F. Kennedy","7/24/2024","7/28/2024","Morning Consult",218,454,"rv",.8107653,.8107653,7
+"Pennsylvania","8/1/2024","Robert F. Kennedy","7/24/2024","7/28/2024","Morning Consult",218,804,"rv",.9615175,.9615175,3
+"California","8/1/2024","Robert F. Kennedy","7/25/2024","7/27/2024","Capitol Weekly",510,1904,"lv",.8582811,.8582811,5
+"Georgia","8/1/2024","Robert F. Kennedy","7/24/2024","7/28/2024","Morning Consult",218,799,"rv",.9599783,.9599783,4
+"Wisconsin","8/1/2024","Robert F. Kennedy","7/24/2024","7/28/2024","Morning Consult",218,700,"rv",.9275542,.9275542,6
+"Washington","8/1/2024","Robert F. Kennedy","7/24/2024","7/25/2024","Public Policy Polling",263,581,"lv",.9104527,.9104527,6
+"Oregon","8/1/2024","Robert F. Kennedy","7/24/2024","7/26/2024","Hoffman Research Group",141,700,"lv",.8395725,.8395725,7
+"National","8/1/2024","Robert F. Kennedy","7/24/2024","7/25/2024","Ipsos",154,1238,"a",.7997612,.6860226,4
+"New Hampshire","8/1/2024","Robert F. Kennedy","7/24/2024","7/25/2024","Saint Anselm College",494,2083,"rv",1.363115,1.284013,3
+"National","8/1/2024","Robert F. Kennedy","7/24/2024","7/25/2024","Rasmussen Reports",277,2163,"lv",1.215129,1.042819,5
+"Pennsylvania","8/1/2024","Robert F. Kennedy","7/23/2024","7/25/2024","Bullfinch",692,800,"rv",.8577757,.777615,6
+"Maine","8/1/2024","Robert F. Kennedy","7/23/2024","7/25/2024","University of New Hampshire",357,1445,"lv",1.02402,1.02402,4
+"New Hampshire","8/1/2024","Robert F. Kennedy","7/23/2024","7/25/2024","University of New Hampshire",357,2875,"lv",1.16764,1.066002,4
+"National","8/1/2024","Robert F. Kennedy","7/23/2024","7/25/2024","Fabrizio/GBAO",796,1000,"rv",.9019572,.7439966,4
+"National","8/1/2024","Robert F. Kennedy","7/23/2024","7/25/2024","AtlasIntel",546,1980,"rv",1.749679,1.443256,4.5
+"Pennsylvania","8/1/2024","Robert F. Kennedy","7/22/2024","7/28/2024","Susquehanna Polling & Research Inc.",326,600,"lv",1.078603,.7762104,3
+"National","8/1/2024","Robert F. Kennedy","7/22/2024","7/25/2024","Harris Insights & Analytics",133,2472,"lv",1.20125,.7763662,8
+"Nevada","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,435,"lv",.7668447,.4801922,5
+"Pennsylvania","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,851,"lv",.9082868,.5687622,5
+"National","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Big Village",37,1492,"lv",1.173604,.7214284,5.6
+"National","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","The New York Times/Siena College",448,1142,"lv",1.681785,1.033814,5
+"Wisconsin","8/1/2024","Robert F. Kennedy","7/22/2024","7/23/2024","Emerson College",88,845,"rv",1.257808,1.082504,3.4
+"Arizona","8/1/2024","Robert F. Kennedy","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,.9358239,5.2
+"Wisconsin","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,523,"lv",.8087144,.6960016,5
+"Minnesota","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,475,"lv",.7872432,.7872432,6
+"National","8/1/2024","Robert F. Kennedy","7/22/2024","7/23/2024","RMG Research",555,2000,"rv",1.203061,.739536,2
+"Michigan","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,512,"lv",.804052,.5034912,7
+"North Carolina","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,586,"lv",.8328815,.6309597,4
+"Georgia","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,1180,"lv",.9752806,.8498426,3
+"Michigan","8/1/2024","Robert F. Kennedy","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,.7735412,4.7
+"Michigan","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1012,"rv",1.388323,.8693573,7
+"National","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Rasmussen Reports",277,1074,"lv",.9160359,.5591149,4
+"Wisconsin","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1046,"rv",1.403903,1.208237,5
+"Georgia","8/1/2024","Robert F. Kennedy","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,1.076427,4.1
+"Pennsylvania","8/1/2024","Robert F. Kennedy","7/22/2024","7/23/2024","Emerson College",88,850,"rv",1.260253,.7891607,3
+"Pennsylvania","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1034,"rv",1.398447,.8756967,7
+"Florida","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,572,"lv",.8278549,.8278549,5
+"National","8/1/2024","Robert F. Kennedy","7/22/2024","7/23/2024","YouGov",391,1155,"lv",.9478594,.5720955,4
+"Michigan","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Glengariff Group",117,600,"lv",.9587052,.6003338,9.7
+"National","8/1/2024","Robert F. Kennedy","7/22/2024","7/23/2024","Ipsos",154,1018,"rv",.8372195,.5116954,8
+"Minnesota","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1071,"rv",1.415126,1.415126,7
+"National","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","SurveyMonkey",324,5265,"a",1.026118,.6307671,6
+"Arizona","8/1/2024","Robert F. Kennedy","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,510,"lv",.8031887,.6084656,4
+"Georgia","8/1/2024","Robert F. Kennedy","7/22/2024","7/22/2024","Landmark Communications",166,400,"lv",1.007723,.7809047,4
+"National","8/1/2024","Robert F. Kennedy","7/21/2024","7/23/2024","YouGov",391,1435,"rv",.9521265,.3696338,5
+"National","8/1/2024","Robert F. Kennedy","7/22/2024","7/22/2024","Marist College",183,1117,"rv",1.429356,.5782532,7
+"California","8/1/2024","Robert F. Kennedy","7/19/2024","7/22/2024","Capitol Weekly",510,2121,"lv",.7296093,.503724,7
+"National","8/1/2024","Robert F. Kennedy","7/19/2024","7/22/2024","YouGov",391,1178,"rv",.996536,.1921828,5
+"New Hampshire","8/1/2024","Robert F. Kennedy","7/19/2024","7/21/2024","Praecones Analytica",257,601,"rv",.8685638,.1881233,20.5
+"National","8/1/2024","Robert F. Kennedy","7/19/2024","7/21/2024","Quinnipiac University",267,1257,"rv",1.355245,.1983285,6
+"North Carolina","8/1/2024","Robert F. Kennedy","7/19/2024","7/20/2024","Public Policy Polling",263,573,"rv",.87103,.1847262,2
+"National","8/1/2024","Robert F. Kennedy","7/19/2024","7/21/2024","Florida Atlantic University/Mainstreet Research",770,711,"lv",.8836503,.1251431,8.8
+"Arizona","8/1/2024","Robert F. Kennedy","7/19/2024","7/20/2024","Public Policy Polling",263,736,"rv",.9341649,.1981157,7
+"Michigan","8/1/2024","Robert F. Kennedy","7/17/2024","7/18/2024","Public Policy Polling",263,650,"rv",.9036779,.0146614,6
+"Pennsylvania","8/1/2024","Robert F. Kennedy","7/17/2024","7/18/2024","Public Policy Polling",263,624,"rv",.8932962,.014493,4
+"National","8/1/2024","Robert F. Kennedy","7/13/2024","7/16/2024","YouGov",391,1404,"rv",1.252512,0,5
+"Michigan","8/1/2024","Robert F. Kennedy","7/13/2024","7/16/2024","Civiqs",471,532,"rv",.7372482,0,5
+"Wisconsin","8/1/2024","Robert F. Kennedy","7/13/2024","7/16/2024","Civiqs",471,514,"rv",.7301393,.1322901,2
+"Pennsylvania","8/1/2024","Robert F. Kennedy","7/13/2024","7/16/2024","Civiqs",471,536,"rv",.738781,0,5
+"Georgia","8/1/2024","Robert F. Kennedy","7/14/2024","7/15/2024","Florida Atlantic University/Mainstreet Research",770,312,"lv",.5097461,.0917871,9
+"Virginia","8/1/2024","Robert F. Kennedy","7/14/2024","7/15/2024","Florida Atlantic University/Mainstreet Research",770,265,"lv",.479259,.479259,5
+"Virginia","8/1/2024","Robert F. Kennedy","7/12/2024","7/13/2024","Florida Atlantic University/Mainstreet Research",770,544,"lv",.6923547,.6370167,10
+"Georgia","8/1/2024","Robert F. Kennedy","7/12/2024","7/13/2024","Florida Atlantic University/Mainstreet Research",770,549,"lv",.6749906,.0998378,6
+"California","8/1/2024","Robert F. Kennedy","7/12/2024","7/14/2024","Capitol Weekly",510,1044,"lv",.9117458,.1637191,7
+"National","8/1/2024","Robert F. Kennedy","7/12/2024","7/14/2024","Big Village",37,1499,"lv",1.174875,0,9.2
+"Virginia","8/1/2024","Robert F. Kennedy","7/9/2024","7/12/2024","The New York Times/Siena College",448,661,"lv",1.372263,1.153055,7
+"National","8/1/2024","Robert F. Kennedy","7/7/2024","7/13/2024","Manhattan Institute",781,2100,"lv",1.078746,0,6
+"Pennsylvania","8/1/2024","Robert F. Kennedy","7/9/2024","7/11/2024","The New York Times/Siena College",448,872,"lv",1.521815,0,6
+"National","8/1/2024","Robert F. Kennedy","7/8/2024","7/8/2024","Redfield & Wilton Strategies",562,1101,"lv",.9610172,0,8
+"National","8/1/2024","Robert F. Kennedy","7/7/2024","7/9/2024","YouGov",391,1443,"rv",1.247629,0,5
+"National","8/1/2024","Robert F. Kennedy","6/28/2024","6/30/2024","Harris Insights & Analytics",133,1500,"rv",1.260684,0,16.5
+"Arizona","8/1/2024","Kamala Harris","7/29/2024","7/30/2024","Public Policy Polling",263,618,"rv",.8908122,.8908122,47
+"Georgia","8/1/2024","Kamala Harris","7/29/2024","7/30/2024","Public Policy Polling",263,662,"rv",.9082701,.9082701,48
+"Pennsylvania","8/1/2024","Kamala Harris","7/29/2024","7/30/2024","Public Policy Polling",263,627,"rv",.8945254,.8945254,47
+"National","8/1/2024","Kamala Harris","7/29/2024","7/29/2024","Redfield & Wilton Strategies",562,1750,"lv",1.05666,1.05666,45
+"National","8/1/2024","Kamala Harris","7/27/2024","7/30/2024","Civiqs",471,1123,"rv",.8738968,.8738968,49
+"National","8/1/2024","Kamala Harris","7/27/2024","7/30/2024","YouGov",391,1434,"rv",1.235144,1.235144,46
+"National","8/1/2024","Kamala Harris","7/26/2024","7/29/2024","American Pulse",836,1035,"lv",.9366338,.9038271,46.2
+"Pennsylvania","8/1/2024","Kamala Harris","7/27/2024","7/28/2024","Quantus Polls and News",859,500,"rv",.7591876,.6985504,46.4
+"National","8/1/2024","Kamala Harris","7/26/2024","7/28/2024","Morning Consult",218,11538,"rv",1.147636,1.066193,47
+"National","8/1/2024","Kamala Harris","7/26/2024","7/27/2024","Florida Atlantic University/Mainstreet Research",770,952,"lv",.9772951,.9088333,44
+"National","8/1/2024","Kamala Harris","7/26/2024","7/28/2024","Harris Insights & Analytics",133,2196,"rv",1.174445,1.09064,43.5
+"New Hampshire","8/1/2024","Kamala Harris","7/26/2024","7/28/2024","Emerson College",88,1000,"rv",1.329066,1.329066,47.7
+"National","8/1/2024","Kamala Harris","7/26/2024","7/28/2024","Leger",572,786,"lv",1.001678,.9315079,48
+"National","8/1/2024","Kamala Harris","7/24/2024","7/29/2024","ActiVote",721,1000,"lv",.875528,.8130418,44.3
+"National","8/1/2024","Kamala Harris","7/26/2024","7/28/2024","Ipsos",154,876,"rv",.6746399,.6265315,43
+"Pennsylvania","8/1/2024","Kamala Harris","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.799179,48
+"Michigan","8/1/2024","Kamala Harris","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.9511118,45
+"Arizona","8/1/2024","Kamala Harris","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.799179,43
+"Nevada","8/1/2024","Kamala Harris","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.9511118,45
+"Wisconsin","8/1/2024","Kamala Harris","7/24/2024","7/28/2024","Morning Consult",218,700,"rv",.9275542,.9275542,44
+"California","8/1/2024","Kamala Harris","7/25/2024","7/27/2024","Capitol Weekly",510,1904,"lv",.8582811,.8582811,59
+"North Carolina","8/1/2024","Kamala Harris","7/24/2024","7/28/2024","Morning Consult",218,706,"rv",.9296545,.9296545,44
+"Georgia","8/1/2024","Kamala Harris","7/24/2024","7/28/2024","Morning Consult",218,799,"rv",.9599783,.8066291,45
+"Wisconsin","8/1/2024","Kamala Harris","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.9511118,48
+"National","8/1/2024","Kamala Harris","7/23/2024","7/29/2024","McLaughlin & Associates",203,1000,"lv",.7394398,.6617405,41
+"Pennsylvania","8/1/2024","Kamala Harris","7/24/2024","7/28/2024","Morning Consult",218,804,"rv",.9615175,.8079224,44
+"Michigan","8/1/2024","Kamala Harris","7/24/2024","7/28/2024","Morning Consult",218,706,"rv",.9296545,.9296545,51
+"Nevada","8/1/2024","Kamala Harris","7/24/2024","7/28/2024","Morning Consult",218,454,"rv",.8107653,.8107653,43
+"Florida","8/1/2024","Kamala Harris","7/24/2024","7/27/2024","University of North Florida",360,774,"lv",1.264148,1.264148,42
+"Arizona","8/1/2024","Kamala Harris","7/24/2024","7/28/2024","Morning Consult",218,804,"rv",.9615175,.8079224,48
+"National","8/1/2024","Kamala Harris","7/25/2024","7/27/2024","Morning Consult",218,4000,"rv",.2476573,.2212584,47
+"Oregon","8/1/2024","Kamala Harris","7/24/2024","7/26/2024","Hoffman Research Group",141,700,"lv",.8395725,.8395725,45
+"Washington","8/1/2024","Kamala Harris","7/24/2024","7/25/2024","Public Policy Polling",263,581,"lv",.9104527,.9104527,52
+"National","8/1/2024","Kamala Harris","7/24/2024","7/25/2024","Rasmussen Reports",277,2163,"lv",1.215129,1.042819,45
+"National","8/1/2024","Kamala Harris","7/24/2024","7/25/2024","Ipsos",154,1238,"a",.6242968,.5356258,38
+"New Hampshire","8/1/2024","Kamala Harris","7/24/2024","7/25/2024","Saint Anselm College",494,2083,"rv",1.363115,1.284013,50
+"National","8/1/2024","Kamala Harris","7/24/2024","7/26/2024","Morning Consult",218,4000,"rv",.2472218,.2120054,46
+"National","8/1/2024","Kamala Harris","7/23/2024","7/25/2024","AtlasIntel",546,1980,"rv",1.749679,1.443256,46.1
+"New Hampshire","8/1/2024","Kamala Harris","7/23/2024","7/25/2024","University of New Hampshire",357,2875,"lv",1.16764,1.066002,49
+"National","8/1/2024","Kamala Harris","7/23/2024","7/25/2024","Angus Reid Global",13,1743,"rv",1.373048,1.132585,44
+"National","8/1/2024","Kamala Harris","7/23/2024","7/25/2024","Fabrizio/GBAO",796,1000,"rv",.9019572,.7439966,45
+"Minnesota","8/1/2024","Kamala Harris","7/23/2024","7/25/2024","SurveyUSA",325,656,"lv",1.293963,1.293963,50
+"Pennsylvania","8/1/2024","Kamala Harris","7/23/2024","7/25/2024","Bullfinch",692,800,"rv",.8577757,.6522411,44
+"Maine","8/1/2024","Kamala Harris","7/23/2024","7/25/2024","University of New Hampshire",357,1445,"lv",1.02402,1.02402,48
+"National","8/1/2024","Kamala Harris","7/23/2024","7/25/2024","Morning Consult",218,4000,"rv",.2492728,.2047417,46
+"Pennsylvania","8/1/2024","Kamala Harris","7/22/2024","7/28/2024","Susquehanna Polling & Research Inc.",326,600,"lv",1.078603,.6478565,47
+"National","8/1/2024","Kamala Harris","7/22/2024","7/25/2024","Harris Insights & Analytics",133,2472,"lv",1.185037,.7641075,45
+"Michigan","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1012,"rv",1.388323,.8375943,43
+"Minnesota","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,475,"lv",.7872432,.5883062,44
+"National","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Big Village",37,1492,"lv",1.173604,.7214284,42.7
+"Georgia","8/1/2024","Kamala Harris","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,.6433157,43.3
+"Pennsylvania","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1034,"rv",1.398447,.7282733,45
+"Florida","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,572,"lv",.8278549,.7100108,39
+"Wisconsin","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,523,"lv",.8087144,.4879084,44
+"Arizona","8/1/2024","Kamala Harris","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,.6433157,39.8
+"Pennsylvania","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,851,"lv",.9082868,.4730112,42
+"Wisconsin","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1046,"rv",1.403903,.8469938,46
+"Pennsylvania","8/1/2024","Kamala Harris","7/22/2024","7/23/2024","Emerson College",88,850,"rv",1.260253,.6563057,44.3
+"Michigan","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,512,"lv",.804052,.4850955,41
+"Georgia","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,1180,"lv",.9752806,.5078998,42
+"North Carolina","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,586,"lv",.8328815,.6309597,43
+"Michigan","8/1/2024","Kamala Harris","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,.7452789,43.8
+"Minnesota","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1071,"rv",1.415126,1.057523,47
+"National","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Rasmussen Reports",277,1074,"lv",.9160359,.5591149,42
+"National","8/1/2024","Kamala Harris","7/22/2024","7/23/2024","RMG Research",555,2000,"rv",1.203061,.739536,46
+"National","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Morning Consult",218,11297,"rv",.4306692,.2564359,46
+"National","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","SurveyMonkey",324,5265,"a",1.026118,.6307671,38
+"National","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","The New York Times/Siena College",448,1142,"lv",1.681785,1.033814,44
+"Michigan","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Glengariff Group",117,600,"lv",.9587052,.5783999,41.6
+"National","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Change Research",48,2137,"rv",1.139644,.7005527,44
+"National","8/1/2024","Kamala Harris","7/22/2024","7/23/2024","SSRS",297,1631,"rv",.9972708,.6130344,46
+"Nevada","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,435,"lv",.7668447,.6576853,43
+"Arizona","8/1/2024","Kamala Harris","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,510,"lv",.8031887,.4182789,43
+"Wisconsin","8/1/2024","Kamala Harris","7/22/2024","7/23/2024","Emerson College",88,845,"rv",1.257808,.7588529,45.4
+"National","8/1/2024","Kamala Harris","7/22/2024","7/23/2024","YouGov",391,1155,"lv",.9478594,.5720955,44
+"National","8/1/2024","Kamala Harris","7/22/2024","7/23/2024","Ipsos",154,1018,"rv",.7147401,.4346421,42
+"National","8/1/2024","Kamala Harris","7/22/2024","7/22/2024","Marist College",183,1117,"rv",1.429356,.5782532,42
+"National","8/1/2024","Kamala Harris","7/21/2024","7/23/2024","ActiVote",721,1000,"lv",.8146179,.3174093,49.5
+"Pennsylvania","8/1/2024","Kamala Harris","7/20/2024","7/23/2024","North Star Opinion Research",233,600,"lv",.9908795,.2785951,45
+"National","8/1/2024","Kamala Harris","7/21/2024","7/23/2024","YouGov",391,1435,"rv",.9521265,.3696338,41
+"Georgia","8/1/2024","Kamala Harris","7/22/2024","7/22/2024","Landmark Communications",166,400,"lv",1.007723,.2833309,44.3
+"National","8/1/2024","Kamala Harris","7/21/2024","7/22/2024","Morning Consult",218,4001,"rv",1.12362,.2006028,45
+"California","8/1/2024","Kamala Harris","7/19/2024","7/22/2024","Capitol Weekly",510,2121,"lv",.7296093,.503724,54
+"National","8/1/2024","Kamala Harris","7/19/2024","7/22/2024","YouGov",391,1178,"rv",.9760088,.1831709,41
+"National","8/1/2024","Kamala Harris","7/19/2024","7/21/2024","Harris Insights & Analytics",133,2169,"lv",1.371256,.1915569,46
+"Arizona","8/1/2024","Kamala Harris","7/19/2024","7/20/2024","Public Policy Polling",263,736,"rv",.8179438,.042658,40
+"New Hampshire","8/1/2024","Kamala Harris","7/19/2024","7/21/2024","Praecones Analytica",257,601,"rv",.8685638,.1881233,39.3
+"National","8/1/2024","Kamala Harris","7/19/2024","7/21/2024","Florida Atlantic University/Mainstreet Research",770,711,"lv",.8836503,.1251431,39.3
+"National","8/1/2024","Kamala Harris","7/19/2024","7/21/2024","Quinnipiac University",267,1257,"rv",1.355245,.1983285,41
+"North Carolina","8/1/2024","Kamala Harris","7/19/2024","7/20/2024","Public Policy Polling",263,573,"rv",.87103,.1847262,44
+"National","8/1/2024","Kamala Harris","7/19/2024","7/21/2024","Echelon Insights",407,982,"lv",1.198089,.1753301,47
+"Michigan","8/1/2024","Kamala Harris","7/17/2024","7/18/2024","Public Policy Polling",263,650,"rv",.7623327,.0030852,41
+"Pennsylvania","8/1/2024","Kamala Harris","7/17/2024","7/18/2024","Public Policy Polling",263,624,"rv",.863735,.0202795,43
+"National","8/1/2024","Kamala Harris","7/16/2024","7/18/2024","YouGov",391,2240,"lv",1.411647,.0156741,48
+"Georgia","8/1/2024","Kamala Harris","7/9/2024","7/18/2024","University of Georgia",350,1000,"lv",1.119954,0,45.9
+"National","8/1/2024","Kamala Harris","7/15/2024","7/16/2024","Ipsos",154,992,"rv",.8833403,0,44
+"Florida","8/1/2024","Kamala Harris","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,.18411,39
+"Pennsylvania","8/1/2024","Kamala Harris","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,0,40
+"Nevada","8/1/2024","Kamala Harris","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,.18411,40
+"Arizona","8/1/2024","Kamala Harris","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,0,42
+"Georgia","8/1/2024","Kamala Harris","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,0,36.7
+"National","8/1/2024","Kamala Harris","7/13/2024","7/16/2024","YouGov",391,1404,"rv",1.088165,0,39
+"Pennsylvania","8/1/2024","Kamala Harris","7/13/2024","7/16/2024","Civiqs",471,536,"rv",.738781,0,44
+"Wisconsin","8/1/2024","Kamala Harris","7/13/2024","7/16/2024","Civiqs",471,514,"rv",.7301393,0,48
+"Michigan","8/1/2024","Kamala Harris","7/13/2024","7/16/2024","Civiqs",471,532,"rv",.7372482,0,46
+"Georgia","8/1/2024","Kamala Harris","7/14/2024","7/15/2024","Florida Atlantic University/Mainstreet Research",770,312,"lv",.5107227,0,38
+"Virginia","8/1/2024","Kamala Harris","7/14/2024","7/15/2024","Emerson College",88,1000,"rv",1.329066,1.329066,44.5
+"National","8/1/2024","Kamala Harris","7/15/2024","7/15/2024","Morning Consult",218,2045,"rv",1.201874,0,45
+"Virginia","8/1/2024","Kamala Harris","7/14/2024","7/15/2024","Florida Atlantic University/Mainstreet Research",770,265,"lv",.479259,.479259,41
+"National","8/1/2024","Kamala Harris","7/13/2024","7/15/2024","Harris Insights & Analytics",133,1918,"rv",1.180141,0,48
+"National","8/1/2024","Kamala Harris","7/12/2024","7/15/2024","SurveyUSA",325,1098,"lv",1.549629,0,42
+"Virginia","8/1/2024","Kamala Harris","7/12/2024","7/13/2024","Florida Atlantic University/Mainstreet Research",770,544,"lv",.6923547,.6370167,43
+"California","8/1/2024","Kamala Harris","7/12/2024","7/14/2024","Capitol Weekly",510,1044,"lv",.9117458,.1637191,54
+"Georgia","8/1/2024","Kamala Harris","7/12/2024","7/13/2024","Florida Atlantic University/Mainstreet Research",770,549,"lv",.6760592,0,38
+"National","8/1/2024","Kamala Harris","7/12/2024","7/14/2024","Big Village",37,1499,"lv",1.174875,0,37.3
+"Washington","8/1/2024","Kamala Harris","7/10/2024","7/13/2024","SurveyUSA",325,708,"lv",1.329363,.2387091,51
+"Michigan","8/1/2024","Kamala Harris","7/11/2024","7/12/2024","Public Policy Polling",263,568,"rv",.7965377,0,46
+"Pennsylvania","8/1/2024","Kamala Harris","7/11/2024","7/12/2024","Public Policy Polling",263,537,"rv",.8397312,0,45
+"Virginia","8/1/2024","Kamala Harris","7/9/2024","7/12/2024","The New York Times/Siena College",448,661,"lv",1.372263,1.153055,43
+"Wisconsin","8/1/2024","Kamala Harris","7/10/2024","7/11/2024","Public Policy Polling",263,548,"rv",.8590776,0,48
+"Arizona","8/1/2024","Kamala Harris","7/10/2024","7/11/2024","Public Policy Polling",263,596,"rv",.8814034,0,44
+"National","8/1/2024","Kamala Harris","7/7/2024","7/13/2024","Manhattan Institute",781,2100,"lv",1.078746,0,36
+"Pennsylvania","8/1/2024","Kamala Harris","7/9/2024","7/11/2024","The New York Times/Siena College",448,872,"lv",1.521815,0,42
+"National","8/1/2024","Kamala Harris","7/8/2024","7/11/2024","OH Predictive Insights",235,2295,"lv",1.298234,0,44
+"National","8/1/2024","Kamala Harris","7/9/2024","7/10/2024","Marist College",183,1174,"rv",1.453317,0,50
+"National","8/1/2024","Kamala Harris","7/7/2024","7/10/2024","Beacon Research/Shaw & Co. Research",103,1210,"rv",1.474272,0,48
+"National","8/1/2024","Kamala Harris","7/8/2024","7/8/2024","Redfield & Wilton Strategies",562,1101,"lv",.9610172,0,37
+"National","8/1/2024","Kamala Harris","7/7/2024","7/9/2024","YouGov",391,1443,"rv",1.086101,0,38
+"National","8/1/2024","Kamala Harris","7/7/2024","7/8/2024","Emerson College",88,1370,"rv",1.470507,0,42.8
+"National","8/1/2024","Kamala Harris","7/7/2024","7/9/2024","Hart Research Associates/Public Opinion Strategies",221,800,"rv",1.105344,0,45
+"Wisconsin","8/1/2024","Kamala Harris","7/6/2024","7/10/2024","North Star Opinion Research",233,600,"lv",.9908795,0,47
+"National","8/1/2024","Kamala Harris","7/5/2024","7/9/2024","Ipsos",154,2041,"rv",.9231689,0,49
+"National","8/1/2024","Kamala Harris","7/2/2024","7/6/2024","Bendixen & Amandi International",29,1000,"lv",.9656021,0,42
+"National","8/1/2024","Kamala Harris","7/1/2024","7/2/2024","Ipsos",154,892,"rv",.7207345,0,42
+"National","8/1/2024","Kamala Harris","7/1/2024","7/3/2024","J.L. Partners",619,1000,"lv",.9872479,0,38
+"National","8/1/2024","Kamala Harris","7/1/2024","7/3/2024","Data for Progress",522,2067,"lv",1.089106,0,46
+"National","8/1/2024","Kamala Harris","6/28/2024","7/1/2024","YouGov",391,1176,"rv",1.109194,0,45
+"National","8/1/2024","Kamala Harris","6/28/2024","6/30/2024","SSRS",297,1274,"rv",.9478914,0,45
+"National","8/1/2024","Kamala Harris","6/28/2024","6/30/2024","Harris Insights & Analytics",133,1500,"rv",1.198962,0,39
+"National","8/1/2024","Kamala Harris","6/28/2024","6/28/2024","Data for Progress",522,1011,"lv",.841207,0,45
+"Pennsylvania","8/1/2024","Donald Trump","7/29/2024","7/30/2024","Public Policy Polling",263,627,"rv",.8945254,.8945254,48
+"Arizona","8/1/2024","Donald Trump","7/29/2024","7/30/2024","Public Policy Polling",263,618,"rv",.8908122,.8908122,49
+"Georgia","8/1/2024","Donald Trump","7/29/2024","7/30/2024","Public Policy Polling",263,662,"rv",.9082701,.9082701,47
+"National","8/1/2024","Donald Trump","7/27/2024","7/30/2024","YouGov",391,1434,"rv",1.235144,1.235144,44
+"National","8/1/2024","Donald Trump","7/27/2024","7/30/2024","Civiqs",471,1123,"rv",.8738968,.8738968,45
+"National","8/1/2024","Donald Trump","7/29/2024","7/29/2024","Redfield & Wilton Strategies",562,1750,"lv",1.05666,1.05666,43
+"National","8/1/2024","Donald Trump","7/26/2024","7/29/2024","American Pulse",836,1035,"lv",.9366338,.9038271,46.7
+"Pennsylvania","8/1/2024","Donald Trump","7/27/2024","7/28/2024","Quantus Polls and News",859,500,"rv",.7591876,.6985504,47.6
+"National","8/1/2024","Donald Trump","7/26/2024","7/28/2024","Morning Consult",218,11538,"rv",1.147636,1.066193,46
+"National","8/1/2024","Donald Trump","7/26/2024","7/28/2024","Leger",572,786,"lv",1.001678,.9315079,41
+"New Hampshire","8/1/2024","Donald Trump","7/26/2024","7/28/2024","Emerson College",88,1000,"rv",1.329066,1.329066,41.4
+"National","8/1/2024","Donald Trump","7/26/2024","7/27/2024","Florida Atlantic University/Mainstreet Research",770,952,"lv",.9772951,.9088333,43
+"National","8/1/2024","Donald Trump","7/26/2024","7/28/2024","Ipsos",154,876,"rv",.6746399,.6265315,42
+"National","8/1/2024","Donald Trump","7/24/2024","7/29/2024","ActiVote",721,1000,"lv",.875528,.8130418,45.5
+"National","8/1/2024","Donald Trump","7/26/2024","7/28/2024","Harris Insights & Analytics",133,2196,"rv",1.174445,1.09064,47
+"North Carolina","8/1/2024","Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,706,"rv",.9296545,.9296545,45
+"California","8/1/2024","Donald Trump","7/25/2024","7/27/2024","Capitol Weekly",510,1904,"lv",.8582811,.8582811,35
+"Pennsylvania","8/1/2024","Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,804,"rv",.9615175,.8079224,46
+"Arizona","8/1/2024","Donald Trump","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.799179,48
+"National","8/1/2024","Donald Trump","7/25/2024","7/27/2024","Morning Consult",218,4000,"rv",.2476573,.2212584,45
+"Florida","8/1/2024","Donald Trump","7/24/2024","7/27/2024","University of North Florida",360,774,"lv",1.264148,1.264148,49
+"Pennsylvania","8/1/2024","Donald Trump","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.799179,45
+"Wisconsin","8/1/2024","Donald Trump","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.9511118,46
+"Michigan","8/1/2024","Donald Trump","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.9511118,45
+"Arizona","8/1/2024","Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,804,"rv",.9615175,.8079224,44
+"Georgia","8/1/2024","Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,799,"rv",.9599783,.8066291,45
+"Nevada","8/1/2024","Donald Trump","7/23/2024","7/29/2024","Public Opinion Strategies",260,400,"lv",.9511118,.9511118,46
+"Wisconsin","8/1/2024","Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,700,"rv",.9275542,.9275542,45
+"Michigan","8/1/2024","Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,706,"rv",.9296545,.9296545,39
+"National","8/1/2024","Donald Trump","7/23/2024","7/29/2024","McLaughlin & Associates",203,1000,"lv",.7394398,.6617405,42
+"Nevada","8/1/2024","Donald Trump","7/24/2024","7/28/2024","Morning Consult",218,454,"rv",.8107653,.8107653,43
+"National","8/1/2024","Donald Trump","7/24/2024","7/25/2024","Rasmussen Reports",277,2163,"lv",1.215129,1.042819,46
+"Washington","8/1/2024","Donald Trump","7/24/2024","7/25/2024","Public Policy Polling",263,581,"lv",.9104527,.9104527,38
+"National","8/1/2024","Donald Trump","7/24/2024","7/25/2024","Ipsos",154,1238,"a",.6242968,.5356258,38
+"New Hampshire","8/1/2024","Donald Trump","7/24/2024","7/25/2024","Saint Anselm College",494,2083,"rv",1.363115,1.284013,44
+"Oregon","8/1/2024","Donald Trump","7/24/2024","7/26/2024","Hoffman Research Group",141,700,"lv",.8395725,.8395725,40
+"National","8/1/2024","Donald Trump","7/24/2024","7/26/2024","Morning Consult",218,4000,"rv",.2472218,.2120054,45
+"National","8/1/2024","Donald Trump","7/23/2024","7/25/2024","AtlasIntel",546,1980,"rv",1.749679,1.443256,47.7
+"Maine","8/1/2024","Donald Trump","7/23/2024","7/25/2024","University of New Hampshire",357,1445,"lv",1.02402,1.02402,40
+"Pennsylvania","8/1/2024","Donald Trump","7/23/2024","7/25/2024","Bullfinch",692,800,"rv",.8577757,.6522411,44
+"National","8/1/2024","Donald Trump","7/23/2024","7/25/2024","Morning Consult",218,4000,"rv",.2492728,.2047417,45
+"Minnesota","8/1/2024","Donald Trump","7/23/2024","7/25/2024","SurveyUSA",325,656,"lv",1.293963,1.293963,40
+"National","8/1/2024","Donald Trump","7/23/2024","7/25/2024","Angus Reid Global",13,1743,"rv",1.373048,1.132585,42
+"National","8/1/2024","Donald Trump","7/23/2024","7/25/2024","Fabrizio/GBAO",796,1000,"rv",.9019572,.7439966,44
+"New Hampshire","8/1/2024","Donald Trump","7/23/2024","7/25/2024","University of New Hampshire",357,2875,"lv",1.16764,1.066002,43
+"Pennsylvania","8/1/2024","Donald Trump","7/22/2024","7/28/2024","Susquehanna Polling & Research Inc.",326,600,"lv",1.078603,.6478565,43
+"National","8/1/2024","Donald Trump","7/22/2024","7/25/2024","Harris Insights & Analytics",133,2472,"lv",1.185037,.7641075,46.5
+"Arizona","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,510,"lv",.8031887,.4182789,46
+"Wisconsin","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1046,"rv",1.403903,.8469938,46
+"Wisconsin","8/1/2024","Donald Trump","7/22/2024","7/23/2024","Emerson College",88,845,"rv",1.257808,.7588529,44.9
+"Pennsylvania","8/1/2024","Donald Trump","7/22/2024","7/23/2024","Emerson College",88,850,"rv",1.260253,.6563057,46.1
+"Michigan","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,512,"lv",.804052,.4850955,44
+"Georgia","8/1/2024","Donald Trump","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,.6433157,45.9
+"Pennsylvania","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1034,"rv",1.398447,.7282733,43
+"North Carolina","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,586,"lv",.8328815,.6309597,46
+"National","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Morning Consult",218,11297,"rv",.4306692,.2564359,45
+"Michigan","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1012,"rv",1.388323,.8375943,45
+"Minnesota","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Beacon Research/Shaw & Co. Research",103,1071,"rv",1.415126,1.057523,41
+"Wisconsin","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,523,"lv",.8087144,.4879084,44
+"Pennsylvania","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,851,"lv",.9082868,.4730112,46
+"Arizona","8/1/2024","Donald Trump","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,.6433157,47.5
+"National","8/1/2024","Donald Trump","7/22/2024","7/24/2024","SurveyMonkey",324,5265,"a",1.026118,.6307671,39
+"Georgia","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,1180,"lv",.9752806,.5078998,47
+"National","8/1/2024","Donald Trump","7/22/2024","7/23/2024","Ipsos",154,1018,"rv",.7147401,.4346421,38
+"Nevada","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,435,"lv",.7668447,.6576853,45
+"National","8/1/2024","Donald Trump","7/22/2024","7/23/2024","YouGov",391,1155,"lv",.9478594,.5720955,46
+"National","8/1/2024","Donald Trump","7/22/2024","7/24/2024","The New York Times/Siena College",448,1142,"lv",1.681785,1.033814,43
+"Florida","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,572,"lv",.8278549,.7100108,47
+"National","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Change Research",48,2137,"rv",1.139644,.7005527,43
+"National","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Big Village",37,1492,"lv",1.173604,.7214284,44.3
+"National","8/1/2024","Donald Trump","7/22/2024","7/23/2024","RMG Research",555,2000,"rv",1.203061,.739536,48
+"Michigan","8/1/2024","Donald Trump","7/22/2024","7/23/2024","Emerson College",88,800,"rv",1.235309,.7452789,44.1
+"Michigan","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Glengariff Group",117,600,"lv",.9587052,.5783999,41.3
+"National","8/1/2024","Donald Trump","7/22/2024","7/23/2024","SSRS",297,1631,"rv",.9972708,.6130344,49
+"National","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Rasmussen Reports",277,1074,"lv",.9160359,.5591149,49
+"Minnesota","8/1/2024","Donald Trump","7/22/2024","7/24/2024","Redfield & Wilton Strategies",562,475,"lv",.7872432,.5883062,41
+"National","8/1/2024","Donald Trump","7/21/2024","7/23/2024","ActiVote",721,1000,"lv",.8146179,.3174093,50.5
+"Georgia","8/1/2024","Donald Trump","7/22/2024","7/22/2024","Landmark Communications",166,400,"lv",1.007723,.2833309,45.8
+"National","8/1/2024","Donald Trump","7/21/2024","7/23/2024","YouGov",391,1435,"rv",.9521265,.3696338,44
+"National","8/1/2024","Donald Trump","7/22/2024","7/22/2024","Marist College",183,1117,"rv",1.429356,.5782532,42
+"Pennsylvania","8/1/2024","Donald Trump","7/20/2024","7/23/2024","North Star Opinion Research",233,600,"lv",.9908795,.2785951,47
+"National","8/1/2024","Donald Trump","7/21/2024","7/22/2024","Morning Consult",218,4001,"rv",1.12362,.2006028,47
+"National","8/1/2024","Donald Trump","7/19/2024","7/22/2024","YouGov",391,1178,"rv",.9760088,.1831709,43
+"California","8/1/2024","Donald Trump","7/19/2024","7/22/2024","Capitol Weekly",510,2121,"lv",.7296093,.503724,35
+"National","8/1/2024","Donald Trump","7/19/2024","7/21/2024","Quinnipiac University",267,1257,"rv",1.355245,.1983285,45
+"North Carolina","8/1/2024","Donald Trump","7/19/2024","7/20/2024","Public Policy Polling",263,573,"rv",.87103,.1847262,48
+"New Hampshire","8/1/2024","Donald Trump","7/19/2024","7/21/2024","Praecones Analytica",257,601,"rv",.8685638,.1881233,40.2
+"National","8/1/2024","Donald Trump","7/19/2024","7/21/2024","Harris Insights & Analytics",133,2169,"lv",1.371256,.1915569,54
+"Arizona","8/1/2024","Donald Trump","7/19/2024","7/20/2024","Public Policy Polling",263,736,"rv",.8179438,.042658,46
+"National","8/1/2024","Donald Trump","7/19/2024","7/21/2024","Florida Atlantic University/Mainstreet Research",770,711,"lv",.8836503,.1251431,45.3
+"National","8/1/2024","Donald Trump","7/19/2024","7/21/2024","Echelon Insights",407,982,"lv",1.198089,.1753301,49
+"Pennsylvania","8/1/2024","Donald Trump","7/17/2024","7/18/2024","Public Policy Polling",263,624,"rv",.863735,.0202795,45
+"Michigan","8/1/2024","Donald Trump","7/17/2024","7/18/2024","Public Policy Polling",263,650,"rv",.7623327,.0030852,46
+"National","8/1/2024","Donald Trump","7/16/2024","7/18/2024","YouGov",391,2240,"lv",1.411647,.0156741,51
+"Georgia","8/1/2024","Donald Trump","7/9/2024","7/18/2024","University of Georgia",350,1000,"lv",1.119954,0,50.5
+"Georgia","8/1/2024","Donald Trump","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,0,47.1
+"Nevada","8/1/2024","Donald Trump","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,.18411,50
+"National","8/1/2024","Donald Trump","7/15/2024","7/16/2024","Ipsos",154,992,"rv",.8833403,0,44
+"Arizona","8/1/2024","Donald Trump","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,0,48
+"Pennsylvania","8/1/2024","Donald Trump","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,0,47
+"Florida","8/1/2024","Donald Trump","7/15/2024","7/16/2024","InsiderAdvantage",243,800,"lv",1.01441,.18411,49.3
+"National","8/1/2024","Donald Trump","7/13/2024","7/16/2024","YouGov",391,1404,"rv",1.088165,0,44
+"Wisconsin","8/1/2024","Donald Trump","7/13/2024","7/16/2024","Civiqs",471,514,"rv",.7301393,0,48
+"Michigan","8/1/2024","Donald Trump","7/13/2024","7/16/2024","Civiqs",471,532,"rv",.7372482,0,46
+"Pennsylvania","8/1/2024","Donald Trump","7/13/2024","7/16/2024","Civiqs",471,536,"rv",.738781,0,46
+"Virginia","8/1/2024","Donald Trump","7/14/2024","7/15/2024","Emerson College",88,1000,"rv",1.329066,1.329066,46.7
+"Georgia","8/1/2024","Donald Trump","7/14/2024","7/15/2024","Florida Atlantic University/Mainstreet Research",770,312,"lv",.5107227,0,46
+"Virginia","8/1/2024","Donald Trump","7/14/2024","7/15/2024","Florida Atlantic University/Mainstreet Research",770,265,"lv",.479259,.479259,45
+"National","8/1/2024","Donald Trump","7/15/2024","7/15/2024","Morning Consult",218,2045,"rv",1.201874,0,46
+"National","8/1/2024","Donald Trump","7/12/2024","7/15/2024","SurveyUSA",325,1098,"lv",1.549629,0,45
+"National","8/1/2024","Donald Trump","7/13/2024","7/15/2024","Harris Insights & Analytics",133,1918,"rv",1.180141,0,52
+"National","8/1/2024","Donald Trump","7/12/2024","7/14/2024","Big Village",37,1499,"lv",1.174875,0,41.6
+"Georgia","8/1/2024","Donald Trump","7/12/2024","7/13/2024","Florida Atlantic University/Mainstreet Research",770,549,"lv",.6760592,0,49
+"California","8/1/2024","Donald Trump","7/12/2024","7/14/2024","Capitol Weekly",510,1044,"lv",.9117458,.1637191,33
+"Virginia","8/1/2024","Donald Trump","7/12/2024","7/13/2024","Florida Atlantic University/Mainstreet Research",770,544,"lv",.6923547,.6370167,38
+"Washington","8/1/2024","Donald Trump","7/10/2024","7/13/2024","SurveyUSA",325,708,"lv",1.329363,.2387091,36
+"Pennsylvania","8/1/2024","Donald Trump","7/11/2024","7/12/2024","Public Policy Polling",263,537,"rv",.8397312,0,51
+"Michigan","8/1/2024","Donald Trump","7/11/2024","7/12/2024","Public Policy Polling",263,568,"rv",.7965377,0,48
+"Virginia","8/1/2024","Donald Trump","7/9/2024","7/12/2024","The New York Times/Siena College",448,661,"lv",1.372263,1.153055,39
+"Arizona","8/1/2024","Donald Trump","7/10/2024","7/11/2024","Public Policy Polling",263,596,"rv",.8814034,0,52
+"Wisconsin","8/1/2024","Donald Trump","7/10/2024","7/11/2024","Public Policy Polling",263,548,"rv",.8590776,0,49
+"Pennsylvania","8/1/2024","Donald Trump","7/9/2024","7/11/2024","The New York Times/Siena College",448,872,"lv",1.521815,0,43
+"National","8/1/2024","Donald Trump","7/8/2024","7/11/2024","OH Predictive Insights",235,2295,"lv",1.298234,0,48
+"National","8/1/2024","Donald Trump","7/7/2024","7/13/2024","Manhattan Institute",781,2100,"lv",1.078746,0,44
+"National","8/1/2024","Donald Trump","7/9/2024","7/10/2024","Marist College",183,1174,"rv",1.453317,0,49
+"National","8/1/2024","Donald Trump","7/7/2024","7/10/2024","Beacon Research/Shaw & Co. Research",103,1210,"rv",1.474272,0,49
+"National","8/1/2024","Donald Trump","7/7/2024","7/8/2024","Emerson College",88,1370,"rv",1.470507,0,49
+"National","8/1/2024","Donald Trump","7/7/2024","7/9/2024","YouGov",391,1443,"rv",1.086101,0,42
+"National","8/1/2024","Donald Trump","7/8/2024","7/8/2024","Redfield & Wilton Strategies",562,1101,"lv",.9610172,0,44
+"Wisconsin","8/1/2024","Donald Trump","7/6/2024","7/10/2024","North Star Opinion Research",233,600,"lv",.9908795,0,48
+"National","8/1/2024","Donald Trump","7/7/2024","7/9/2024","Hart Research Associates/Public Opinion Strategies",221,800,"rv",1.105344,0,47
+"National","8/1/2024","Donald Trump","7/5/2024","7/9/2024","Ipsos",154,2041,"rv",.9231689,0,47
+"National","8/1/2024","Donald Trump","7/2/2024","7/6/2024","Bendixen & Amandi International",29,1000,"lv",.9656021,0,41
+"National","8/1/2024","Donald Trump","7/1/2024","7/3/2024","J.L. Partners",619,1000,"lv",.9872479,0,49
+"National","8/1/2024","Donald Trump","7/1/2024","7/3/2024","Data for Progress",522,2067,"lv",1.089106,0,46
+"National","8/1/2024","Donald Trump","7/1/2024","7/2/2024","Ipsos",154,892,"rv",.7207345,0,43
+"National","8/1/2024","Donald Trump","6/28/2024","7/1/2024","YouGov",391,1176,"rv",1.109194,0,47
+"National","8/1/2024","Donald Trump","6/28/2024","6/30/2024","SSRS",297,1274,"rv",.9478914,0,47
+"National","8/1/2024","Donald Trump","6/28/2024","6/30/2024","Harris Insights & Analytics",133,1500,"rv",1.198962,0,43
+"National","8/1/2024","Donald Trump","6/28/2024","6/28/2024","Data for Progress",522,1011,"lv",.841207,0,48

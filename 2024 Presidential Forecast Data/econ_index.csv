@@ -1,0 +1,8 @@
+modeldate,candidate_inc,candidate_chal,candidate_3rd,current_zscore,projected_zscore,projected_hi,projected_lo,indicator
+"8/1/2024","Harris","Trump","Kennedy",-.7928088,-.7879237,-.4897043,-1.086143,"Real disposable personal income"
+"8/1/2024","Harris","Trump","Kennedy",.126435,.4235996,.7218189,.1253803,"Consumer price index"
+"8/1/2024","Harris","Trump","Kennedy",.2687739,.2065459,.5047652,-.0916735,"Nonfarm payrolls"
+"8/1/2024","Harris","Trump","Kennedy",-.1279012,-.0254072,.2728122,-.3236265,"Industrial production"
+"8/1/2024","Harris","Trump","Kennedy",-.0388133,-.1386706,.1595487,-.4368899,"Personal consumption expenditures"
+"8/1/2024","Harris","Trump","Kennedy",.9630044,.5878913,.8861106,.2896719,"S&P 500"
+"8/1/2024","Harris","Trump","Kennedy",.0664483,.0443392,.2552121,-.1665337,"Average of all six indicators"
