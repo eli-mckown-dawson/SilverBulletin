@@ -6,8 +6,8 @@ This folder contains the data from our [2024 Presidential Election Forecast](htt
 Column | Description
 -------|------------
 `state` | Name of the state <tr></tr> |
-`modeldate` | Date of the model run 
-`candidate_name` | The candidate for this answer choice
-`pct_estimate` | Polling average for the candidate listed in `candidate_name` on `modeldate`
-`pct_trend_adjusted` | Trendline adjusted polling average for the candidate listed in `candidate_name` on `modeldate`
-`display_average` | Indicator for whether there is enough polling to display the average for `state` on `modeldate`
+`modeldate` | Date of the model run <tr></tr> |
+`candidate_name` | The candidate for this answer choice <tr></tr> |
+`pct_estimate` | Polling average for the candidate listed in `candidate_name` on `modeldate` <tr></tr> |
+`pct_trend_adjusted` | Trendline adjusted polling average for the candidate listed in `candidate_name` on `modeldate` <tr></tr> |
+`display_average` | Indicator for whether there is enough polling to display the average for `state` on `modeldate` <tr></tr> |
