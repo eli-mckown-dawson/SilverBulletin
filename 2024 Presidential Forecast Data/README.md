@@ -5,14 +5,9 @@ This folder contains the data from our [2024 Presidential Election Forecast](htt
 [`poll_average.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/poll_average.csv) contains the polling averages for each day since 7/1/2024. It includes the following columns:
 Column | Description
 -------|------------
-`state` | Name of the state
-<tr></tr>
+`state` | Name of the state <tr></tr> |
 `modeldate` | Date of the model run 
-<tr></tr>
 `candidate_name` | The candidate for this answer choice
-<tr></tr>
 `pct_estimate` | Polling average for the candidate listed in `candidate_name` on `modeldate`
-<tr></tr>
 `pct_trend_adjusted` | Trendline adjusted polling average for the candidate listed in `candidate_name` on `modeldate`
-<tr></tr>
 `display_average` | Indicator for whether there is enough polling to display the average for `state` on `modeldate`
