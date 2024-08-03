@@ -1,5 +1,5 @@
 # 2024 Presidential Forecast Data
-This folder contains the data from our [2024 Presidential Election Forecast]([https://projects.fivethirtyeight.com/2020-election-forecast/](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model). We update these data whenever we update our forecast. 
+This folder contains the data from our [2024 Presidential Election Forecast](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model). We update these data whenever we update our forecast. 
 
 ## Polling averages
 `poll_average.csv` contains the polling averages for each day since 7/1/2024. It includes the following columns:
