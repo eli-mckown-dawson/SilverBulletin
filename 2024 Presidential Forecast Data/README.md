@@ -14,6 +14,8 @@ Column | Description
 
 ## National topline
 [`poll_average.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/national_topline.csv) contains the national topline on each day since 7/29/24. It includes the following columns:
+Column | Description
+-------|------------
 `modeldate` | Date of the model run <tr></tr> |
 `candidate_inc` | Name of the incumbent <tr></tr> |
 `candidate_chal` | Name of the challenger <tr></tr> |
