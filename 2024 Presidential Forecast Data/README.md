@@ -61,7 +61,7 @@ Column | Description
 `win_state_if_win_EC_chal` | Chance that the challenger will win this state if they win the Electoral College <tr></tr> |
 `state_turnout`, `state_turnout_hi`, `state_turnout_lo` | Forecasted state-level voter turnout based on past turnout, estimates of population growth, polls about whether voters are more or less enthusiastic about the election than usual and other factors in each state. Includes the upper and lower bounds of an 80% confidence interval <tr></tr> |
 
-## Polls
+## Presidential polls
 [`pres_pollist.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/pres_pollist.csv) contains an entry for each poll, and how much the model adjusts each poll for the house and trendline adjustments. It includes the following columns:
 Column | Description
 -------|------------
