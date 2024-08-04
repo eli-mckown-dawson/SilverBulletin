@@ -13,7 +13,7 @@ Column | Description
 `display_average` | Indicator for whether there is enough polling to display the average for `state` on `modeldate` <tr></tr> |
 
 ## National topline
-[`poll_average.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/national_topline.csv) contains the national topline on each day since 7/29/24. It includes the following columns:
+[`national_topline.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/national_topline.csv) contains the national topline on each day since 7/29/24. It includes the following columns:
 Column | Description
 -------|------------
 `modeldate` | Date of the model run <tr></tr> |
