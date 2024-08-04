@@ -35,3 +35,31 @@ Column | Description
 `national_voteshare_3rd`, `national_voteshare_3rd_lo`, `national_voteshare_3rd_hi` | Forecasted national vote share for the third-party candidate, including the upper and lower bounds of an 80% confidence interval <tr></tr> |
 `nat_voteshare_other`, `nat_voteshare_other_lo`, `nat_voteshare_other_hi` | Forecasted national voter turnout based on past turnout, estimates of population growth, polls about whether voters are more or less enthusiastic about the election than usual and other factors in each state. Includes the upper and lower bounds of an 80% confidence interval <tr></tr> | 
 `national_turnout`, `national_turnout_lo`, `national_turnout_hi` | Forecasted national voter turnout based on past turnout, estimates of population growth, polls about whether voters are more or less enthusiastic about the election than usual and other factors in each state. Includes the upper and lower bounds of an 80% confidence interval <tr></tr> |
+
+## Sate toplines
+[`state_topline.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/state_topline.csv) contains the state-level topline results from our most recent model run. It includes the following columns:
+Column | Description
+-------|------------
+`modeldate` | Date of the model run <tr></tr> |
+`candidate_inc` | Name of the incumbent <tr></tr> |
+`candidate_chal` | Name of the challenger <tr></tr> |
+`candidate_3rd` | Name of the third-party candidate <tr></tr> |
+`state` | Name of the state <tr></tr> |
+`tipping` | Tipping-point chance, the chance the state will deliver the decisive vote in the Electoral College <tr></tr> |
+`vpi` | Voter power index, the relative likelihood that an individual voter in the state will determine the Electoral College winner <tr></tr> |
+`winstate_inc` | Chance the incumbent will win the state <tr></tr> |
+`winstate_chal` | Chance the challenger will win the state <tr></tr> |
+`winstate_3rd` | Chance the third-party candidate will win the state <tr></tr> |
+`voteshare_inc`, `voteshare_inc_lo`, `voteshare_inc_hi` | Forecasted vote share for the incumbent, including the upper and lower bounds of an 80% confidence interval <tr></tr> |
+`voteshare_chal`, `voteshare_chal_lo`, `voteshare_chal_hi` | Forecasted vote share for the challenger, including the upper and lower bounds of an 80% confidence interval <tr></tr> |
+`voteshare_3rd`, `voteshare_3rd_lo`, `voteshare_3rd_hi` | Forecasted vote share for the third-party candidate, including the upper and lower bounds of an 80% confidence interval <tr></tr> |
+`voteshare_other`, `voteshare_other_lo`, `voteshare_other_hi` | Forecasted vote share for other candidates, including the upper and lower bounds of an 80% confidence interval <tr></tr> |
+`margin`, `margin_lo`, `margin_hi` | Forecasted margin for the incumbent, including the upper and lower bounds of an 80% confidence interval <tr></tr> |
+`win_EC_if_win_state_inc` | Chance that the incumbent will win the Electoral College if they win this state <tr></tr> |
+`win_EC_if_win_state_chal` | Chance that the challenger will win the Electoral College if they win this state <tr></tr> |
+`win_state_if_win_EC_inc` | Chance that the incumbent will win this state if they win the Electoral College <tr></tr> |
+`win_state_if_win_EC_chal` | Chance that the challenger will win this state if they win the Electoral College <tr></tr> |
+`state_turnout`, `state_turnout_hi`, `state_turnout_lo` | Forecasted state-level voter turnout based on past turnout, estimates of population growth, polls about whether voters are more or less enthusiastic about the election than usual and other factors in each state. Includes the upper and lower bounds of an 80% confidence interval <tr></tr> |
+
+
+
