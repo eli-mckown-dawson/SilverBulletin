@@ -61,5 +61,23 @@ Column | Description
 `win_state_if_win_EC_chal` | Chance that the challenger will win this state if they win the Electoral College <tr></tr> |
 `state_turnout`, `state_turnout_hi`, `state_turnout_lo` | Forecasted state-level voter turnout based on past turnout, estimates of population growth, polls about whether voters are more or less enthusiastic about the election than usual and other factors in each state. Includes the upper and lower bounds of an 80% confidence interval <tr></tr> |
 
-
-
+## Polls
+[`pres_pollist.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/pres_pollist.csv) contains an entry for each poll, and how much the model adjusts each poll for the house and trendline adjustments. It includes the following columns:
+Column | Description
+-------|------------
+`modeldate` | Date of the model run <tr></tr> |
+`state` | Name of the state <tr></tr> |
+`candidate_name` | The candidate for this answer choice <tr></tr> |
+`startdate` | The first day interviews were conducted for this poll <tr></tr> |
+`enddate` | The last day interviews were conducted for this poll <tr></tr> |
+`pollster` | The name of the pollster' <tr></tr> |
+`samplesize` | The size of the sample <tr></tr> |
+`population` | Whether the population interviewed was adults, registered voters, or likely voters <tr></tr> |
+`weight` | A relative weight that describes how much this poll factors into the forecast relative to other polls <tr></tr> |
+`influence` | A relative weight that describes how much this poll factors into today's the forecast (similar to "weight", but also takes into account how old the poll is) <tr></tr> |
+`pct` | Voteshare for this candidate in this poll <tr></tr> |
+`house_adjusted_pct` | Voteshare in this poll after applying the house adjustment <tr></tr> |
+`trend_and_house_adjusted_pct` | Voteshare in this poll after applying both house and trendline adjustments <tr></tr> |
+`tracking` | Whether or not the poll sample overlaps with other polls in our database <tr></tr> |
+`poll_id` | Unique identifier for a poll <tr></tr> |
+`question_id` | Unique identifier for a question <tr></tr> |
