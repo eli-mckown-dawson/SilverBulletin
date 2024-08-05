@@ -109,6 +109,35 @@ Column | Description
 `voteshare` | Percent of the popular vote question <tr></tr> |
 `state` | Name of the state <tr></tr> |
 
+## Electoral college bias
+[`ec_vs_popvote.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/voteshare_ec_vs_popvote.csv) contains the the probability that each candidate will win the electoral college conditional on the popular vote outcome. It includes the following columns:
+Column | Description
+-------|------------
+`modeldate` | Date of the model run <tr></tr> |
+`candidate_inc` | Name of the incumbent <tr></tr> |
+`candidate_chal` | Name of the challenger <tr></tr> |
+`candidate_3rd` | Name of the third-party candidate <tr></tr> |
+`lower_bin_text`, `upper_bin_text` | A range of popular vote outcomes <tr></tr> |
+`ecwin_inc`, `ecwin_chal`, `ecwin_3rd`, `ecwin_nomajority` | Chance that the incumbent, challenger, 3rd party candidate or nobody will win a majority of electoral votes, conditional on the popular vote outcome falling between <tr></tr> |
+`total_ev_inc `, `ev_inc_lo`, `ev_inc_hi` | Forecasted number of Electoral College votes for the incumbent conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`, including the upper and lower bounds of an 80% confidence interval <tr></tr> |
+`total_ev_chal `, `ev_chal_lo`, `ev_chal_hi` | Forecasted number of Electoral College votes for the challenger conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`, including the upper and lower bounds of an 80% confidence interval
+`count` | Number of simulations in which this outcome is present <tr></tr> |
+
+## Economic index
+[`econ_index.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/voteshare_econ_index.csv) contains economic indicators that serve as inputs to the forecast. It includes the following columns:
+Column | Description
+-------|------------
+`modeldate` | Date of the model run <tr></tr> |
+`candidate_inc` | Name of the incumbent <tr></tr> |
+`candidate_chal` | Name of the challenger <tr></tr> |
+`candidate_3rd` | Name of the third-party candidate <tr></tr> |
+`indicator` | Name of the economic indicator <tr></tr> |
+`category` | What that indicator helps measure <tr></tr> |
+`current_zscore` | Number of standard deviations from the previous 2-year average for the current value of the indicator <tr></tr> |
+`projected_zscore` | Number of standard deviations from the previous 2-year average for the projected value of the indicator on Election Day <tr></tr> |
+`projected_hi` | Upper bound of an 80% confidence interval for `projected_zscore` <tr></tr> |
+`projected_lo` | Lower bound of an 80% confidence interval for `projected_zscore` <tr></tr> |
+
 
 
 
