@@ -123,6 +123,18 @@ Column | Description
 `total_ev_chal `, `ev_chal_lo`, `ev_chal_hi` | Forecasted number of Electoral College votes for the challenger conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`, including the upper and lower bounds of an 80% confidence interval
 `count` | Number of simulations in which this outcome is present <tr></tr> |
 
+## Scenarios
+[`scenario_analysis.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/scenario_analysis.csv) contains the forecasted chances of various possible election outcome scenarios. It includes the following columns:
+Column | Description
+-------|------------
+`modeldate` | Date of the model run <tr></tr> |
+`candidate_inc` | Name of the incumbent <tr></tr> |
+`candidate_chal` | Name of the challenger <tr></tr> |
+`candidate_3rd` | Name of the third-party candidate <tr></tr> |
+`scenario_id` | A unique identifier for each scenario <tr></tr> |
+`probability` | The forecasted chance that the scenario will happen <tr></tr> |
+`scenario_description` | A description of the scenario in question <tr></tr> |
+
 ## Economic index
 [`econ_index.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/voteshare_econ_index.csv) contains economic indicators that serve as inputs to the forecast. It includes the following columns:
 Column | Description
