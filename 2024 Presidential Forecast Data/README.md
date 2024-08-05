@@ -110,7 +110,7 @@ Column | Description
 `state` | Name of the state <tr></tr> |
 
 ## Electoral college bias
-[`ec_vs_popvote.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/voteshare_ec_vs_popvote.csv) contains the the probability that each candidate will win the electoral college conditional on the popular vote outcome. It includes the following columns:
+[`ec_vs_popvote.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/ec_vs_popvote.csv) contains the the probability that each candidate will win the electoral college conditional on the popular vote outcome. It includes the following columns:
 Column | Description
 -------|------------
 `modeldate` | Date of the model run <tr></tr> |
@@ -136,7 +136,7 @@ Column | Description
 `scenario_description` | A description of the scenario in question <tr></tr> |
 
 ## Economic index
-[`econ_index.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/voteshare_econ_index.csv) contains economic indicators that serve as inputs to the forecast. It includes the following columns:
+[`econ_index.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/econ_index.csv) contains economic indicators that serve as inputs to the forecast. It includes the following columns:
 Column | Description
 -------|------------
 `modeldate` | Date of the model run <tr></tr> |
