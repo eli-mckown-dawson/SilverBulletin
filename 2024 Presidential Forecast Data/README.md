@@ -95,6 +95,23 @@ Column | Description
 `evprob_3rd` | Chance that the third-party candidate wins `total_ev` electoral votes <tr></tr> |
 `total_ev` | Number of electoral votes in question <tr></tr> |
 
+## Popular vote distributions
+[`voteshare_probabilities.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/voteshare_probabilities.csv) contains the forecasted chances of every possible popular vote outcome in each contest. It includes the following columns:
+Column | Description
+-------|------------
+`modeldate` | Date of the model run <tr></tr> |
+`candidate_inc` | Name of the incumbent <tr></tr> |
+`candidate_chal` | Name of the challenger <tr></tr> |
+`candidate_3rd` | Name of the third-party candidate <tr></tr> |
+`voteshareprob_inc` | Chance that the incumbent wins `voteshare` percent of the vote <tr></tr> |
+`voteshareprob_chal` | Chance that the challenger wins `voteshare` percent of the vote <tr></tr> |
+`voteshareprob_chal` | Chance that the third-party candidate wins ` percent of the vote <tr></tr> |
+`voteshare` | Percent of the popular vote question <tr></tr> |
+`state` | Name of the state <tr></tr> |
+
+
+
+
 
 
 
