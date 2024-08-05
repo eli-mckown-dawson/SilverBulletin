@@ -81,3 +81,20 @@ Column | Description
 `tracking` | Whether or not the poll sample overlaps with other polls in our database <tr></tr> |
 `poll_id` | Unique identifier for a poll <tr></tr> |
 `question_id` | Unique identifier for a question <tr></tr> |
+
+## Electoral vote distributions
+[`ev_probabilities.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/ev_probabilities.csv) contains the forecasted chances of every possible Electoral College outcome. It includes the following columns:
+Column | Description
+-------|------------
+`modeldate` | Date of the model run <tr></tr> |
+`candidate_inc` | Name of the incumbent <tr></tr> |
+`candidate_chal` | Name of the challenger <tr></tr> |
+`candidate_3rd` | Name of the third-party candidate <tr></tr> |
+`evprob_inc` | Chance that the incumbent wins `total_ev` electoral votes <tr></tr> |
+`evprob_chal` | Chance that the challenger wins `total_ev` electoral votes <tr></tr> |
+`evprob_3rd` | Chance that the third-party candidate wins `total_ev` electoral votes <tr></tr> |
+`total_ev` | Number of electoral votes in question <tr></tr> |
+
+
+
+
