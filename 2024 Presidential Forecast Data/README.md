@@ -70,7 +70,7 @@ Column | Description
 `candidate_name` | The candidate for this answer choice <tr></tr> |
 `startdate` | The first day interviews were conducted for this poll <tr></tr> |
 `enddate` | The last day interviews were conducted for this poll <tr></tr> |
-`pollster` | The name of the pollster' <tr></tr> |
+`pollster` | The name of the pollster <tr></tr> |
 `samplesize` | The size of the sample <tr></tr> |
 `population` | Whether the population interviewed was adults, registered voters, or likely voters <tr></tr> |
 `weight` | A relative weight that describes how much this poll factors into the forecast relative to other polls <tr></tr> |
