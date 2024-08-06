@@ -121,7 +121,7 @@ Column | Description
 `lower_bin_text`, `upper_bin_text` | A range of popular vote outcomes <tr></tr> |
 `ecwin_inc`, `ecwin_chal`, `ecwin_3rd`, `ecwin_nomajority` | Chance that the incumbent, challenger, 3rd party candidate or nobody will win a majority of electoral votes, conditional on the popular vote outcome falling between <tr></tr> |
 `total_ev_inc `, `ev_inc_lo`, `ev_inc_hi` | Forecasted number of Electoral College votes for the incumbent conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`, including the upper and lower bounds of an 80% confidence interval <tr></tr> |
-`total_ev_chal `, `ev_chal_lo`, `ev_chal_hi` | Forecasted number of Electoral College votes for the challenger conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`, including the upper and lower bounds of an 80% confidence interval
+`total_ev_chal `, `ev_chal_lo`, `ev_chal_hi` | Forecasted number of Electoral College votes for the challenger conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`, including the upper and lower bounds of an 80% confidence interval <tr></tr> |
 `count` | Number of simulations in which this outcome is present <tr></tr> |
 
 ## Scenarios
