@@ -71,6 +71,7 @@ Column | Description
 `startdate` | The first day interviews were conducted for this poll <tr></tr> |
 `enddate` | The last day interviews were conducted for this poll <tr></tr> |
 `pollster` | The name of the pollster <tr></tr> |
+`pollster_rating_id` | Unique identifier for each pollster <tr></tr> |
 `samplesize` | The size of the sample <tr></tr> |
 `population` | Whether the population interviewed was adults, registered voters, or likely voters <tr></tr> |
 `weight` | A relative weight that describes how much this poll factors into the forecast relative to other polls <tr></tr> |
@@ -106,11 +107,11 @@ Column | Description
 `voteshareprob_inc` | Chance that the incumbent wins `voteshare` percent of the vote <tr></tr> |
 `voteshareprob_chal` | Chance that the challenger wins `voteshare` percent of the vote <tr></tr> |
 `voteshareprob_chal` | Chance that the third-party candidate wins ` percent of the vote <tr></tr> |
-`voteshare` | Percent of the popular vote question <tr></tr> |
+`voteshare` | Percent of the popular vote in question <tr></tr> |
 `state` | Name of the state <tr></tr> |
 
 ## Electoral college bias
-[`ec_vs_popvote.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/voteshare_ec_vs_popvote.csv) contains the the probability that each candidate will win the electoral college conditional on the popular vote outcome. It includes the following columns:
+[`ec_vs_popvote.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/ec_vs_popvote.csv) contains the the probability that each candidate will win the electoral college conditional on the popular vote outcome. It includes the following columns:
 Column | Description
 -------|------------
 `modeldate` | Date of the model run <tr></tr> |
@@ -120,7 +121,7 @@ Column | Description
 `lower_bin_text`, `upper_bin_text` | A range of popular vote outcomes <tr></tr> |
 `ecwin_inc`, `ecwin_chal`, `ecwin_3rd`, `ecwin_nomajority` | Chance that the incumbent, challenger, 3rd party candidate or nobody will win a majority of electoral votes, conditional on the popular vote outcome falling between <tr></tr> |
 `total_ev_inc `, `ev_inc_lo`, `ev_inc_hi` | Forecasted number of Electoral College votes for the incumbent conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`, including the upper and lower bounds of an 80% confidence interval <tr></tr> |
-`total_ev_chal `, `ev_chal_lo`, `ev_chal_hi` | Forecasted number of Electoral College votes for the challenger conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`, including the upper and lower bounds of an 80% confidence interval
+`total_ev_chal `, `ev_chal_lo`, `ev_chal_hi` | Forecasted number of Electoral College votes for the challenger conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`, including the upper and lower bounds of an 80% confidence interval <tr></tr> |
 `count` | Number of simulations in which this outcome is present <tr></tr> |
 
 ## Scenarios
@@ -136,7 +137,7 @@ Column | Description
 `scenario_description` | A description of the scenario in question <tr></tr> |
 
 ## Economic index
-[`econ_index.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/voteshare_econ_index.csv) contains economic indicators that serve as inputs to the forecast. It includes the following columns:
+[`econ_index.csv`](https://github.com/eli-mckown-dawson/SilverBulletin/blob/main/2024%20Presidential%20Forecast%20Data/econ_index.csv) contains economic indicators that serve as inputs to the forecast. It includes the following columns:
 Column | Description
 -------|------------
 `modeldate` | Date of the model run <tr></tr> |
