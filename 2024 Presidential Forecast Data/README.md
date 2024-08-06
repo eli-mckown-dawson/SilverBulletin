@@ -107,7 +107,7 @@ Column | Description
 `voteshareprob_inc` | Chance that the incumbent wins `voteshare` percent of the vote <tr></tr> |
 `voteshareprob_chal` | Chance that the challenger wins `voteshare` percent of the vote <tr></tr> |
 `voteshareprob_chal` | Chance that the third-party candidate wins ` percent of the vote <tr></tr> |
-`voteshare` | Percent of the popular vote question <tr></tr> |
+`voteshare` | Percent of the popular vote in question <tr></tr> |
 `state` | Name of the state <tr></tr> |
 
 ## Electoral college bias
