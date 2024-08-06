@@ -71,6 +71,7 @@ Column | Description
 `startdate` | The first day interviews were conducted for this poll <tr></tr> |
 `enddate` | The last day interviews were conducted for this poll <tr></tr> |
 `pollster` | The name of the pollster <tr></tr> |
+`pollster_rating_id` | Unique identifier for each pollster <tr></tr> |
 `samplesize` | The size of the sample <tr></tr> |
 `population` | Whether the population interviewed was adults, registered voters, or likely voters <tr></tr> |
 `weight` | A relative weight that describes how much this poll factors into the forecast relative to other polls <tr></tr> |
